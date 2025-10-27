@@ -1,0 +1,137 @@
+<!-- <!DOCTYPE html>
+<html lang="en" class="bg-gray-100">
+<head>
+    <meta charset="UTF-8">
+    <title>Booking Hub</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="font-sans">
+    <div class="bg-gradient-to-r from-blue-700 to-indigo-800 text-white p-8 text-center shadow-lg">
+        <h1 class="text-4xl md:text-5xl font-bold">Your Booking & Reservation Hub</h1>
+        {% set destination_name = plan.title.split(' to ')[-1] %}
+        <p class="text-blue-100 mt-2 text-lg">Finalize your plans for {{ destination_name }}</p>
+    </div>
+
+    <main class="max-w-4xl mx-auto p-4 md:p-8 space-y-12">
+        <section class="bg-white p-8 rounded-lg shadow-md">
+            <h2 class="text-3xl font-bold text-gray-800 mb-6 text-center">Main Travel Arrangements</h2>
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+                <a href="{{ main_links.flights }}" target="_blank" class="block p-8 bg-blue-600 text-white rounded-lg shadow-lg text-center hover:bg-blue-700 transition duration-300 transform hover:scale-105">
+                    <h3 class="text-2xl font-bold">✈️ Book Your Flights</h3>
+                    <p class="mt-2 text-blue-100">Find the best deals via Skyscanner</p>
+                </a>
+                <a href="{{ main_links.hotels }}" target="_blank" class="block p-8 bg-green-600 text-white rounded-lg shadow-lg text-center hover:bg-green-700 transition duration-300 transform hover:scale-105">
+                    <h3 class="text-2xl font-bold">🏨 Find Your Hotels</h3>
+                    <p class="mt-2 text-green-100">Browse accommodations on Booking.com</p>
+                </a>
+            </div>
+        </section>
+
+        <section class="bg-white p-8 rounded-lg shadow-md">
+            <h2 class="text-3xl font-bold text-gray-800 mb-6 text-center">Activity Reservations & Info</h2>
+            <div class="space-y-4">
+                {% for day, activities in plan.detailed_itinerary.items() %}
+                    {% if activities is mapping %}
+                        {% if activities.morning and activities.morning.booking_link %}
+                        <div class="bg-gray-50 p-4 rounded-lg shadow-sm flex flex-col sm:flex-row justify-between items-center space-y-2 sm:space-y-0">
+                            <p class="font-semibold text-gray-700 text-center sm:text-left"><span class="font-bold text-blue-600">{{ day }} (Morning):</span> {{ activities.morning.activity }}</p>
+                            <a href="{{ activities.morning.booking_link }}" target="_blank" class="px-4 py-2 text-sm font-semibold text-white bg-indigo-600 rounded-lg hover:bg-indigo-700 whitespace-nowrap">Book / Info</a>
+                        </div>
+                        {% endif %}
+                        {% if activities.afternoon and activities.afternoon.booking_link %}
+                        <div class="bg-gray-50 p-4 rounded-lg shadow-sm flex flex-col sm:flex-row justify-between items-center space-y-2 sm:space-y-0">
+                            <p class="font-semibold text-gray-700 text-center sm:text-left"><span class="font-bold text-blue-600">{{ day }} (Afternoon):</span> {{ activities.afternoon.activity }}</p>
+                            <a href="{{ activities.afternoon.booking_link }}" target="_blank" class="px-4 py-2 text-sm font-semibold text-white bg-indigo-600 rounded-lg hover:bg-indigo-700 whitespace-nowrap">Book / Info</a>
+                        </div>
+                        {% endif %}
+                        {% if activities.evening and activities.evening.booking_link %}
+                        <div class="bg-gray-50 p-4 rounded-lg shadow-sm flex flex-col sm:flex-row justify-between items-center space-y-2 sm:space-y-0">
+                            <p class="font-semibold text-gray-700 text-center sm:text-left"><span class="font-bold text-blue-600">{{ day }} (Evening):</span> {{ activities.evening.activity }}</p>
+                            <a href="{{ activities.evening.booking_link }}" target="_blank" class="px-4 py-2 text-sm font-semibold text-white bg-indigo-600 rounded-lg hover:bg-indigo-700 whitespace-nowrap">Book / Info</a>
+                        </div>
+                        {% endif %}
+                     {% endif %}
+                {% endfor %}
+            </div>
+        </section>
+
+        <div class="mt-12 text-center">
+             <a href="/" class="px-8 py-3 font-semibold text-white bg-gray-700 rounded-lg hover:bg-gray-800">← Plan New Trip</a>
+        </div>
+    </main>
+</body>
+</html> -->
+
+<!DOCTYPE html>
+<html lang="en" class="bg-gray-100">
+<head>
+    <meta charset="UTF-8">
+    <title>Booking Hub</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="font-sans">
+    <div class="bg-gradient-to-r from-blue-700 to-indigo-800 text-white p-8 text-center shadow-lg">
+        <h1 class="text-4xl md:text-5xl font-bold">Your Booking & Reservation Hub</h1>
+        {% set destination_name = plan.title.split(' to ')[-1] %}
+        <p class="text-blue-100 mt-2 text-lg">Finalize your plans for {{ destination_name }}</p>
+    </div>
+
+    <main class="max-w-4xl mx-auto p-4 md:p-8 space-y-12">
+        <section class="bg-white p-8 rounded-lg shadow-md">
+            <h2 class="text-3xl font-bold text-gray-800 mb-6 text-center">Main Travel Arrangements</h2>
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+                <a href="{{ main_links.flights }}" target="_blank" class="block p-8 bg-blue-600 text-white rounded-lg shadow-lg text-center hover:bg-blue-700 transition duration-300 transform hover:scale-105">
+                    <h3 class="text-2xl font-bold">✈️ Book Your Flights</h3>
+                    <p class="mt-2 text-blue-100">Search on Google Flights</p>
+                </a>
+                <a href="{{ main_links.hotels }}" target="_blank" class="block p-8 bg-green-600 text-white rounded-lg shadow-lg text-center hover:bg-green-700 transition duration-300 transform hover:scale-105">
+                    <h3 class="text-2xl font-bold">🏨 Find Your Hotels</h3>
+                    <p class="mt-2 text-green-100">Browse on Booking.com</p>
+                </a>
+            </div>
+        </section>
+
+        <section class="bg-white p-8 rounded-lg shadow-md">
+            <h2 class="text-3xl font-bold text-gray-800 mb-6 text-center">Activity Reservations & Info</h2>
+            <div class="space-y-4">
+                
+                <!-- This loop now works perfectly with the new data structure -->
+                {% for day, activities in plan.detailed_itinerary.items() %}
+                    <!-- Check if 'activities' is a dictionary (like Day 1, Day 2...) -->
+                    {% if activities is mapping %}
+                        
+                        <!-- Morning Activity -->
+                        {% if activities.morning and activities.morning.booking_link %}
+                        <div class="bg-gray-50 p-4 rounded-lg shadow-sm flex flex-col sm:flex-row justify-between items-center space-y-2 sm:space-y-0">
+                            <p class="font-semibold text-gray-700 text-center sm:text-left"><span class="font-bold text-blue-600">{{ day }} (Morning):</span> {{ activities.morning.activity }}</p>
+                            <a href="{{ activities.morning.booking_link }}" target="_blank" class="px-4 py-2 text-sm font-semibold text-white bg-indigo-600 rounded-lg hover:bg-indigo-700 whitespace-nowrap">Book / Info</a>
+                        </div>
+                        {% endif %}
+
+                        <!-- Afternoon Activity -->
+                        {% if activities.afternoon and activities.afternoon.booking_link %}
+                        <div class="bg-gray-50 p-4 rounded-lg shadow-sm flex flex-col sm:flex-row justify-between items-center space-y-2 sm:space-y-0">
+                            <p class="font-semibold text-gray-700 text-center sm:text-left"><span class="font-bold text-blue-600">{{ day }} (Afternoon):</span> {{ activities.afternoon.activity }}</p>
+                            <a href="{{ activities.afternoon.booking_link }}" target="_blank" class="px-4 py-2 text-sm font-semibold text-white bg-indigo-600 rounded-lg hover:bg-indigo-700 whitespace-nowrap">Book / Info</a>
+                        </div>
+                        {% endif %}
+
+                        <!-- Evening Activity -->
+                        {% if activities.evening and activities.evening.booking_link %}
+                        <div class="bg-gray-50 p-4 rounded-lg shadow-sm flex flex-col sm:flex-row justify-between items-center space-y-2 sm:space-y-0">
+                            <p class="font-semibold text-gray-700 text-center sm:text-left"><span class="font-bold text-blue-600">{{ day }} (Evening):</span> {{ activities.evening.activity }}</p>
+                            <a href="{{ activities.evening.booking_link }}" target="_blank" class="px-4 py-2 text-sm font-semibold text-white bg-indigo-600 rounded-lg hover:bg-indigo-700 whitespace-nowrap">Book / Info</a>
+                        </div>
+                        {% endif %}
+
+                    {% endif %}
+                {% endfor %}
+            </div>
+        </section>
+
+        <div class="mt-12 text-center">
+             <a href="/" class="px-8 py-3 font-semibold text-white bg-gray-700 rounded-lg hover:bg-gray-800">← Plan New Trip</a>
+        </div>
+    </main>
+</body>
+</html>

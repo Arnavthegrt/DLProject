@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en" class="bg-gray-100">
+<head>
+    <meta charset="UTF-8">
+    <title>Your Recommendations</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="p-8">
+    <div class="max-w-6xl mx-auto">
+        <h1 class="text-4xl font-bold text-center text-gray-800">Here Are Your Top Matches</h1>
+        <p class="text-center text-gray-500">Choose a destination to generate your complete travel plan.</p>
+        
+        <form action="/itinerary" method="post" class="mt-8">
+            <div class="max-w-sm mx-auto mb-8">
+                <label for="transportation" class="block text-sm font-medium text-gray-700">Preferred On-Trip Transportation?</label>
+                <select name="transportation" id="transportation" class="w-full mt-1 p-2 border border-gray-300 rounded-md">
+                    <option>Public Transport & Walking</option>
+                    <option>Rental Car</option>
+                    <option>Taxis & Ride-Sharing</option>
+                </select>
+            </div>
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+                {% for place in recommendations.destinations %}
+                <div class="bg-white rounded-lg shadow-lg overflow-hidden flex flex-col">
+                    <div class="p-6 flex-grow">
+                        <h2 class="text-2xl font-bold text-gray-800">{{ place.city }}</h2>
+                        <p class="text-sm text-gray-500">{{ place.country }}</p>
+                        <p class="mt-4 text-gray-600">{{ place.description }}</p>
+                    </div>
+                    <button type="submit" name="chosen_destination" value="{{ place.city }}|{{ place.country }}" class="w-full px-4 py-3 font-semibold text-white bg-blue-600 hover:bg-blue-700">
+                        Generate Full Plan
+                    </button>
+                </div>
+                {% endfor %}
+            </div>
+            
+            <input type="hidden" name="departure_city" value="{{ preferences.departure_city }}">
+            <input type="hidden" name="duration" value="{{ preferences.duration }}">
+            <input type="hidden" name="people" value="{{ preferences.people }}">
+            <input type="hidden" name="budget" value="{{ preferences.budget }}">
+            <input type="hidden" name="pace" value="{{ preferences.pace }}">
+            <input type="hidden" name="accommodation_style" value="{{ preferences.accommodation_style }}">
+            <input type="hidden" name="interests" value="{{ preferences.interests|join(',') }}">
+            
+            <input type="hidden" name="start_date" value="{{ preferences.start_date }}">
+        </form>
+    </div>
+</body>
+</html>

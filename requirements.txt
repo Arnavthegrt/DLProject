@@ -1,0 +1,8 @@
+torch
+tensorflow
+transformers
+sentence-transformers
+requests
+beautifulsoup4
+scikit-learn
+flask

@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en" class="bg-gray-100">
+<head>
+    <meta charset="UTF-8">
+    <title>AI Travel Planner - Step 2</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="flex items-center justify-center min-h-screen p-4">
+    <div class="w-full max-w-2xl p-8 space-y-6 bg-white rounded-lg shadow-xl">
+        <div class="text-center">
+            <h1 class="text-3xl font-bold text-gray-800">Tell Us About Your Travel Style</h1>
+            <p class="text-gray-500">This helps us personalize your recommendations.</p>
+        </div>
+        <form action="/recommend" method="post" class="space-y-6">
+            <div>
+                <label class="block text-sm font-medium text-gray-700">What's your preferred pace?</label>
+                <div class="flex justify-around mt-2 p-1 bg-gray-200 rounded-lg">
+                    <label class="w-full text-center"><input type="radio" name="pace" value="Relaxed" class="sr-only peer" checked><div class="p-2 rounded-md cursor-pointer peer-checked:bg-blue-600 peer-checked:text-white">Relaxed</div></label>
+                    <label class="w-full text-center"><input type="radio" name="pace" value="Balanced" class="sr-only peer"><div class="p-2 rounded-md cursor-pointer peer-checked:bg-blue-600 peer-checked:text-white">Balanced</div></label>
+                    <label class="w-full text-center"><input type="radio" name="pace" value="Action-Packed" class="sr-only peer"><div class="p-2 rounded-md cursor-pointer peer-checked:bg-blue-600 peer-checked:text-white">Action-Packed</div></label>
+                </div>
+            </div>
+            <div>
+                <label class="block text-sm font-medium text-gray-700">Preferred accommodation style?</label>
+                 <select name="accommodation_style" class="w-full mt-1 p-2 border border-gray-300 rounded-md">
+                    <option>Budget-friendly Hostels & Guesthouses</option>
+                    <option selected>Comfortable Mid-range Hotels (3-4 star)</option>
+                    <option>Luxury Hotels & Resorts (5 star)</option>
+                    <option>Private Apartments (Airbnb, etc.)</option>
+                </select>
+            </div>
+            <div>
+                <label class="block text-sm font-medium text-gray-700">What are your main interests?</label>
+                <div class="grid grid-cols-2 md:grid-cols-3 gap-2 mt-2">
+                    <label class="flex items-center p-3 border rounded-md hover:bg-gray-50"><input type="checkbox" name="interests" value="Nature & Scenery" class="mr-2">Nature</label>
+                    <label class="flex items-center p-3 border rounded-md hover:bg-gray-50"><input type="checkbox" name="interests" value="Adventure" class="mr-2">Adventure</label>
+                    <label class="flex items-center p-3 border rounded-md hover:bg-gray-50"><input type="checkbox" name="interests" value="History & Culture" class="mr-2">History</label>
+                    <label class="flex items-center p-3 border rounded-md hover:bg-gray-50"><input type="checkbox" name="interests" value="Beaches" class="mr-2">Beaches</label>
+                    <label class="flex items-center p-3 border rounded-md hover:bg-gray-50"><input type="checkbox" name="interests" value="Food" class="mr-2">Food</label>
+                    <label class="flex items-center p-3 border rounded-md hover:bg-gray-50"><input type="checkbox" name="interests" value="Nightlife" class="mr-2">Nightlife</label>
+                </div>
+            </div>
+
+            <input type="hidden" name="departure_city" value="{{ preferences.departure_city }}">
+            <input type="hidden" name="duration" value="{{ preferences.duration }}">
+            <input type="hidden" name="people" value="{{ preferences.people }}">
+            <input type="hidden" name="budget" value="{{ preferences.budget }}">
+
+            <input type="hidden" name="start_date" value="{{ preferences.start_date }}">
+            
+            <button type="submit" class="w-full px-4 py-3 font-semibold text-white bg-green-600 rounded-lg hover:bg-green-700">
+                Get My Recommendations
+            </button>
+        </form>
+    </div>
+</body>
+</html>

@@ -1,0 +1,691 @@
+departure_city,start_date,duration_days,num_people,budget_per_person_inr,preferred_pace,accommodation_style,interests,destination
+Delhi,21-09-26,5,1,43927,Balanced,Luxury Hotels,Beaches|Culture|Spiritual,Bali
+Jaipur,02-03-26,4,2,89467,Balanced,Luxury Hotels,Nightlife|Spiritual,Dubai
+Kochi,09-09-26,6,6,26485,Balanced,Private Apartments,Adventure|Culture,Da Nang
+Pune,26-08-26,4,3,32995,Balanced,Mid-range Hotels,Adventure|Culture|Nature,Da Nang
+Kolkata,10-11-25,3,4,45205,Relaxed,Private Apartments,Beaches|Spiritual,Langkawi
+Hyderabad,05-01-26,8,2,70713,Balanced,Mid-range Hotels,Adventure,Ladakh
+Kochi,22-11-25,4,4,11624,Balanced,Private Apartments,Spiritual,Rishikesh
+Bangalore,09-10-26,6,5,27432,Relaxed,Private Apartments,Beaches,Langkawi
+Ahmedabad,23-05-26,8,5,22270,Balanced,Private Apartments,Food|Nature,Manali
+Chennai,23-07-26,3,3,30745,Relaxed,Mid-range Hotels,Adventure|History|Nature,Coorg
+Ahmedabad,30-09-26,4,6,62134,Balanced,Luxury Hotels,History|Nightlife,Singapore
+Mumbai,06-04-26,6,4,54139,Balanced,Luxury Hotels,Culture|Food|History,Istanbul
+Kochi,16-11-25,5,4,17553,Balanced,Private Apartments,Nature,Rishikesh
+Kochi,03-04-26,7,6,43027,Balanced,Luxury Hotels,History,Istanbul
+Ahmedabad,02-07-26,2,6,12445,Relaxed,Budget,History|Spiritual,Varanasi
+Bangalore,26-02-26,4,5,63165,Balanced,Luxury Hotels,Culture|Food|Nightlife,Singapore
+Kolkata,25-09-26,2,6,17206,Relaxed,Mid-range Hotels,Culture|Nightlife,Varanasi
+Ahmedabad,24-04-26,7,1,61915,Action-Packed,Mid-range Hotels,Adventure,Ladakh
+Kolkata,23-12-25,5,5,21634,Balanced,Mid-range Hotels,Adventure|Beaches|History,Shimla
+Kochi,22-02-26,6,6,16167,Balanced,Private Apartments,Culture|Spiritual,Pokhara
+Pune,20-11-25,7,6,57892,Balanced,Private Apartments,Culture|Nature,Ladakh
+Kochi,05-12-25,5,4,15773,Relaxed,Private Apartments,Culture|Nightlife,Ooty
+Chennai,22-04-26,7,4,44805,Relaxed,Luxury Hotels,Adventure|Beaches,Bali
+Kolkata,15-08-26,4,1,29272,Relaxed,Private Apartments,Adventure|Culture,Manali
+Jaipur,26-03-26,5,4,18828,Balanced,Budget,Adventure,Rishikesh
+Jaipur,17-05-26,6,4,52936,Balanced,Private Apartments,Food|Spiritual,Andaman & Nicobar Islands
+Kochi,08-01-26,5,5,41078,Balanced,Mid-range Hotels,History|Nature|Nightlife,Istanbul
+Jaipur,01-02-26,2,6,12652,Relaxed,Mid-range Hotels,Culture|Nature,Varanasi
+Delhi,08-01-26,2,4,16362,Relaxed,Mid-range Hotels,Nature,Shimla
+Mumbai,28-08-26,4,6,21687,Relaxed,Mid-range Hotels,Culture|Food,Coorg
+Pune,29-10-26,6,3,80435,Action-Packed,Private Apartments,Culture|Food,Dubai
+Bangalore,18-10-26,6,5,38056,Relaxed,Luxury Hotels,Adventure|Beaches|Culture,Bali
+Kochi,23-07-26,2,2,19148,Relaxed,Mid-range Hotels,Spiritual,Varanasi
+Bangalore,17-12-25,6,4,22784,Relaxed,Mid-range Hotels,Food|Spiritual,Coorg
+Ahmedabad,20-12-25,3,1,40293,Balanced,Budget,Beaches,Phuket
+Kolkata,23-07-26,3,1,72684,Balanced,Mid-range Hotels,Culture|Nightlife,Singapore
+Kolkata,04-02-26,6,1,42331,Balanced,Budget,Nightlife,Phuket
+Pune,30-11-25,10,6,50416,Action-Packed,Mid-range Hotels,Adventure|Beaches|Nature,Ladakh
+Hyderabad,20-07-26,4,6,36652,Balanced,Mid-range Hotels,Culture,Da Nang
+Ahmedabad,06-07-26,7,6,53765,Balanced,Luxury Hotels,Culture|Nature,Istanbul
+Kolkata,12-05-26,5,1,27950,Relaxed,Budget,Culture|Nature,Ooty
+Hyderabad,25-02-26,6,2,50296,Relaxed,Mid-range Hotels,Adventure|Nature,Bali
+Pune,07-12-25,5,5,64795,Balanced,Private Apartments,Culture,Dubai
+Delhi,06-08-26,8,4,17357,Balanced,Private Apartments,Adventure|Culture,Manali
+Bangalore,25-12-25,5,6,14913,Relaxed,Budget,Nature,Shimla
+Bangalore,12-01-26,4,1,23475,Relaxed,Private Apartments,Culture|History,Ooty
+Bangalore,05-01-26,5,1,67509,Balanced,Luxury Hotels,Beaches|Food|Spiritual,Singapore
+Jaipur,17-03-26,6,5,83760,Relaxed,Luxury Hotels,Nature,Maldives
+Pune,03-04-26,4,5,65422,Action-Packed,Private Apartments,Adventure|Food|Nature,Dubai
+Bangalore,14-05-26,7,3,52048,Balanced,Mid-range Hotels,Food,Phuket
+Bangalore,12-08-26,5,6,29244,Balanced,Mid-range Hotels,Beaches|Food|History,Da Nang
+Kochi,22-07-26,3,1,42630,Balanced,Private Apartments,Culture|Spiritual,Da Nang
+Delhi,06-07-26,5,3,73377,Balanced,Mid-range Hotels,Food|History,Singapore
+Bangalore,16-03-26,6,3,44275,Balanced,Budget,Beaches,Goa
+Jaipur,19-02-26,5,2,132467,Relaxed,Private Apartments,Adventure|History|Nature,Maldives
+Kochi,07-07-26,6,6,122932,Relaxed,Private Apartments,Adventure|Nature,Maldives
+Bangalore,10-03-26,8,6,21946,Balanced,Budget,Nature,Manali
+Kolkata,09-11-25,6,6,82489,Relaxed,Luxury Hotels,Nature,Maldives
+Bangalore,09-10-26,6,5,27432,Relaxed,Private Apartments,Beaches,Langkawi
+Chennai,14-06-26,5,2,70897,Balanced,Mid-range Hotels,Culture|Food,Singapore
+Jaipur,17-12-25,5,1,60260,Balanced,Mid-range Hotels,Beaches|Food|Nightlife,Singapore
+Mumbai,04-09-26,3,2,38581,Balanced,Private Apartments,Beaches,Da Nang
+Delhi,16-12-25,7,4,61959,Action-Packed,Mid-range Hotels,Nature,Ladakh
+Kolkata,06-05-26,4,1,37111,Balanced,Private Apartments,Culture,Jaipur
+Kochi,22-02-26,6,6,16167,Balanced,Private Apartments,Culture|Spiritual,Pokhara
+Bangalore,10-03-26,8,6,21946,Balanced,Budget,Nature,Manali
+Bangalore,05-07-26,3,1,99716,Action-Packed,Luxury Hotels,Adventure|Food|Spiritual,Dubai
+Mumbai,02-10-26,4,3,28437,Balanced,Private Apartments,Culture|Food,Jaipur
+Jaipur,10-12-25,5,2,35656,Balanced,Private Apartments,History,Jaipur
+Pune,23-02-26,3,2,76335,Balanced,Mid-range Hotels,Nightlife|Spiritual,Singapore
+Kolkata,03-08-26,3,4,14231,Relaxed,Budget,History|Nature|Spiritual,Pokhara
+Hyderabad,27-11-25,3,1,44754,Relaxed,Private Apartments,Beaches|Nature|Spiritual,Langkawi
+Kolkata,17-10-26,5,2,31570,Relaxed,Mid-range Hotels,Beaches,Langkawi
+Chennai,21-08-26,6,2,19140,Relaxed,Budget,Food|Nature,Shimla
+Kolkata,24-08-26,6,3,37635,Balanced,Mid-range Hotels,Adventure|Nightlife,Phuket
+Delhi,06-02-26,1,2,18740,Relaxed,Mid-range Hotels,History|Spiritual,Varanasi
+Delhi,15-01-26,6,3,25037,Relaxed,Mid-range Hotels,Nature,Coorg
+Hyderabad,07-09-26,6,5,29335,Balanced,Mid-range Hotels,Beaches,Phuket
+Kolkata,01-06-26,3,5,17421,Balanced,Private Apartments,Beaches|Culture|Nature,Rishikesh
+Kochi,23-07-26,2,2,19148,Relaxed,Mid-range Hotels,Spiritual,Varanasi
+Delhi,29-05-26,8,3,25975,Balanced,Private Apartments,Beaches|Nature|Nightlife,Manali
+Hyderabad,18-08-26,3,5,38395,Relaxed,Private Apartments,Beaches|Food,Langkawi
+Kochi,23-07-26,2,2,19148,Relaxed,Mid-range Hotels,Spiritual,Varanasi
+Kolkata,28-01-26,6,1,18416,Balanced,Private Apartments,Adventure,Pokhara
+Kolkata,09-08-26,6,5,49214,Balanced,Private Apartments,Adventure|Nature,Ladakh
+Delhi,23-08-26,6,1,21041,Relaxed,Budget,Culture|History,Shimla
+Hyderabad,06-10-26,5,4,138917,Relaxed,Luxury Hotels,Beaches|Food,Maldives
+Chennai,07-12-25,5,2,99171,Action-Packed,Luxury Hotels,Food,Dubai
+Mumbai,22-07-26,4,6,98720,Relaxed,Private Apartments,Beaches|Nightlife,Maldives
+Jaipur,18-06-26,5,4,31173,Balanced,Mid-range Hotels,Adventure|Beaches,Da Nang
+Mumbai,14-01-26,1,4,15443,Relaxed,Mid-range Hotels,History|Nature|Spiritual,Varanasi
+Pune,28-02-26,1,5,16799,Relaxed,Mid-range Hotels,History,Varanasi
+Mumbai,21-09-26,8,6,22235,Relaxed,Private Apartments,Culture|Nature,Manali
+Mumbai,04-10-26,5,1,58462,Balanced,Mid-range Hotels,Beaches|History|Nightlife,Istanbul
+Kochi,22-07-26,5,4,31997,Relaxed,Mid-range Hotels,Nature,Langkawi
+Mumbai,22-04-26,4,6,23483,Relaxed,Mid-range Hotels,Food,Colombo
+Kolkata,01-09-26,4,6,16781,Relaxed,Budget,History|Nature,Pokhara
+Ahmedabad,01-09-26,4,1,44335,Balanced,Luxury Hotels,Culture|Food|Nightlife,Istanbul
+Bangalore,20-08-26,8,5,53495,Balanced,Private Apartments,Food|History|Spiritual,Andaman & Nicobar Islands
+Mumbai,04-03-26,5,6,50355,Balanced,Luxury Hotels,Culture|Food,Singapore
+Jaipur,13-11-25,6,2,129942,Relaxed,Private Apartments,Beaches|Nightlife|Spiritual,Maldives
+Kolkata,21-06-26,7,2,65261,Balanced,Mid-range Hotels,Culture|Spiritual,Istanbul
+Kochi,02-02-26,5,1,30678,Balanced,Mid-range Hotels,Food|Nature,Phuket
+Kochi,30-11-25,6,6,40435,Balanced,Private Apartments,Adventure|Culture|History,Ladakh
+Chennai,14-08-26,4,6,23380,Balanced,Private Apartments,Adventure,Manali
+Ahmedabad,06-07-26,7,6,53765,Balanced,Luxury Hotels,Culture|Nature,Istanbul
+Jaipur,03-05-26,3,5,37845,Action-Packed,Private Apartments,Food|Nightlife,Goa
+Bangalore,08-02-26,11,4,52651,Action-Packed,Mid-range Hotels,Adventure|Nature,Ladakh
+Kochi,18-11-25,6,4,28728,Relaxed,Mid-range Hotels,Culture|Nature,Coorg
+Delhi,18-12-25,3,3,28037,Balanced,Mid-range Hotels,Beaches|Food,Jaipur
+Hyderabad,12-02-26,3,3,25423,Relaxed,Private Apartments,History|Nature|Spiritual,Pokhara
+Kolkata,13-10-26,2,2,25988,Relaxed,Mid-range Hotels,Food|Nature,Colombo
+Delhi,08-03-26,3,3,33676,Balanced,Private Apartments,Beaches|Nature|Spiritual,Da Nang
+Pune,08-11-25,3,2,18361,Balanced,Private Apartments,Adventure|Culture|Nature,Pokhara
+Chennai,31-05-26,5,5,44610,Relaxed,Mid-range Hotels,Adventure|Beaches|Nightlife,Langkawi
+Delhi,18-08-26,6,1,38811,Balanced,Mid-range Hotels,Beaches|Food,Phuket
+Pune,31-08-26,6,5,13397,Relaxed,Mid-range Hotels,Beaches|Nature,Shimla
+Hyderabad,18-08-26,3,5,38395,Relaxed,Private Apartments,Beaches|Food,Langkawi
+Mumbai,09-08-26,4,2,27679,Relaxed,Private Apartments,Nature,Coorg
+Pune,24-10-26,3,6,67491,Action-Packed,Luxury Hotels,Nightlife,Dubai
+Kolkata,21-07-26,5,4,44281,Relaxed,Luxury Hotels,Food|History,Andaman & Nicobar Islands
+Delhi,01-05-26,5,1,57879,Relaxed,Mid-range Hotels,Food|History,Bali
+Bangalore,18-10-26,6,5,38056,Relaxed,Luxury Hotels,Adventure|Beaches|Culture,Bali
+Ahmedabad,29-09-26,3,1,18547,Relaxed,Mid-range Hotels,Culture|Spiritual,Varanasi
+Kochi,15-01-26,5,2,67567,Balanced,Mid-range Hotels,Culture|Food|Spiritual,Singapore
+Pune,01-07-26,1,6,13573,Relaxed,Budget,Beaches|Culture|Spiritual,Varanasi
+Ahmedabad,20-04-26,4,1,20223,Balanced,Budget,Adventure|History|Spiritual,Pokhara
+Kolkata,01-09-26,4,6,16781,Relaxed,Budget,History|Nature,Pokhara
+Jaipur,13-11-25,6,2,129942,Relaxed,Private Apartments,Beaches|Nightlife|Spiritual,Maldives
+Delhi,08-01-26,2,4,16362,Relaxed,Mid-range Hotels,Nature,Shimla
+Kolkata,04-03-26,3,4,55808,Balanced,Mid-range Hotels,Beaches|Food,Singapore
+Kolkata,23-12-25,5,5,21634,Balanced,Mid-range Hotels,Adventure|Beaches|History,Shimla
+Pune,29-07-26,6,3,23776,Relaxed,Mid-range Hotels,History|Nature,Coorg
+Pune,18-10-26,5,1,12635,Relaxed,Budget,Adventure|Culture|Spiritual,Manali
+Pune,26-08-26,4,3,32995,Balanced,Mid-range Hotels,Adventure|Culture|Nature,Da Nang
+Hyderabad,30-10-26,6,1,27004,Relaxed,Budget,Nature,Shimla
+Bangalore,24-04-26,3,1,26992,Relaxed,Mid-range Hotels,Beaches|Culture,Colombo
+Bangalore,04-02-26,6,1,46555,Action-Packed,Budget,Food,Goa
+Hyderabad,07-05-26,8,4,42454,Balanced,Luxury Hotels,History|Nature,Bali
+Pune,17-01-26,3,3,17555,Relaxed,Private Apartments,Culture|Food|Nature,Coorg
+Bangalore,18-07-26,6,1,100361,Relaxed,Luxury Hotels,Beaches,Maldives
+Mumbai,15-10-26,3,1,19289,Relaxed,Budget,History,Varanasi
+Chennai,25-01-26,6,2,43147,Relaxed,Private Apartments,Beaches,Langkawi
+Chennai,26-07-26,5,5,39627,Relaxed,Mid-range Hotels,Beaches,Langkawi
+Ahmedabad,02-11-25,4,2,29464,Relaxed,Private Apartments,Culture|Food|Nightlife,Coorg
+Pune,15-05-26,4,6,32879,Balanced,Private Apartments,Culture,Da Nang
+Kochi,08-12-25,4,1,30689,Relaxed,Private Apartments,Food|Nature,Coorg
+Kolkata,06-05-26,4,1,37111,Balanced,Private Apartments,Culture,Jaipur
+Bangalore,20-06-26,3,5,45894,Balanced,Budget,Adventure|Food,Phuket
+Bangalore,25-12-25,5,6,14913,Relaxed,Budget,Nature,Shimla
+Delhi,06-07-26,5,3,73377,Balanced,Mid-range Hotels,Food|History,Singapore
+Jaipur,27-04-26,4,6,20930,Relaxed,Mid-range Hotels,Adventure|Culture,Colombo
+Kolkata,18-08-26,3,6,15941,Balanced,Budget,Spiritual,Pokhara
+Kochi,22-05-26,6,1,66212,Balanced,Luxury Hotels,Nightlife,Dubai
+Mumbai,15-09-26,4,2,22322,Action-Packed,Private Apartments,Adventure,Rishikesh
+Hyderabad,23-07-26,4,1,27769,Relaxed,Budget,Food,Colombo
+Pune,28-12-25,4,2,67026,Balanced,Luxury Hotels,Beaches|Culture,Singapore
+Kolkata,06-02-26,3,1,16934,Relaxed,Budget,Beaches|History,Varanasi
+Jaipur,29-10-26,4,1,16668,Action-Packed,Private Apartments,Adventure|Spiritual,Rishikesh
+Mumbai,11-09-26,7,6,38911,Balanced,Mid-range Hotels,Food,Phuket
+Kolkata,06-07-26,9,1,68701,Balanced,Mid-range Hotels,Adventure,Ladakh
+Jaipur,07-08-26,3,3,17683,Relaxed,Mid-range Hotels,History,Shimla
+Chennai,05-06-26,5,6,27490,Balanced,Budget,Food,Goa
+Jaipur,19-08-26,3,2,34716,Balanced,Mid-range Hotels,Culture|History,Jaipur
+Kochi,15-07-26,3,4,17753,Balanced,Private Apartments,Nature|Nightlife,Rishikesh
+Bangalore,22-03-26,3,4,29554,Relaxed,Private Apartments,Food,Coorg
+Bangalore,21-05-26,6,5,16264,Balanced,Mid-range Hotels,Adventure|Food|Nature,Shimla
+Bangalore,23-07-26,4,4,41085,Balanced,Budget,Nightlife,Phuket
+Kochi,28-05-26,5,1,21186,Relaxed,Private Apartments,Adventure,Pokhara
+Chennai,27-10-26,6,5,31054,Relaxed,Mid-range Hotels,Nature,Langkawi
+Jaipur,26-03-26,5,4,18828,Balanced,Budget,Adventure,Rishikesh
+Kolkata,15-04-26,6,6,36121,Balanced,Mid-range Hotels,Beaches|Nature,Da Nang
+Mumbai,18-02-26,6,6,46963,Action-Packed,Private Apartments,Adventure,Ladakh
+Mumbai,17-09-26,6,4,19151,Balanced,Budget,Adventure|Nature,Shimla
+Bangalore,06-05-26,3,3,22669,Relaxed,Private Apartments,Adventure|Culture|Nature,Manali
+Chennai,09-02-26,6,1,26091,Relaxed,Private Apartments,Nature,Coorg
+Jaipur,20-01-26,5,1,34590,Balanced,Mid-range Hotels,Nature|Nightlife,Phuket
+Hyderabad,24-09-26,4,1,67151,Balanced,Luxury Hotels,Nature|Nightlife,Singapore
+Mumbai,11-08-26,2,1,32763,Balanced,Mid-range Hotels,Food|History,Jaipur
+Mumbai,22-12-25,5,3,44063,Relaxed,Mid-range Hotels,Adventure|Beaches,Langkawi
+Kolkata,20-03-26,4,5,38642,Relaxed,Private Apartments,Beaches,Langkawi
+Jaipur,07-12-25,4,1,60477,Balanced,Mid-range Hotels,Adventure|Nightlife,Singapore
+Mumbai,04-10-26,5,1,58462,Balanced,Mid-range Hotels,Beaches|History|Nightlife,Istanbul
+Pune,08-11-25,3,2,18361,Balanced,Private Apartments,Adventure|Culture|Nature,Pokhara
+Jaipur,29-12-25,5,4,122028,Relaxed,Private Apartments,Food|Nature|Spiritual,Maldives
+Pune,28-10-26,6,6,35840,Balanced,Luxury Hotels,Beaches|Culture|Food,Bali
+Ahmedabad,16-02-26,4,4,38253,Relaxed,Mid-range Hotels,Beaches|Nature|Spiritual,Langkawi
+Chennai,03-05-26,7,5,47982,Action-Packed,Mid-range Hotels,Adventure|History,Ladakh
+Mumbai,17-11-25,7,5,54914,Balanced,Mid-range Hotels,Nature,Bali
+Hyderabad,12-06-26,4,5,52462,Balanced,Luxury Hotels,Culture|Nightlife,Istanbul
+Mumbai,13-10-26,3,3,22574,Relaxed,Private Apartments,Nature,Pokhara
+Kolkata,13-02-26,6,2,36645,Balanced,Budget,Food|Spiritual,Goa
+Delhi,10-11-25,4,2,58733,Balanced,Mid-range Hotels,Food|Nightlife,Singapore
+Ahmedabad,10-10-26,6,4,47758,Action-Packed,Private Apartments,Food|Nature,Ladakh
+Kochi,03-05-26,4,4,18384,Relaxed,Private Apartments,Culture,Ooty
+Mumbai,11-07-26,5,2,29069,Balanced,Private Apartments,Culture,Jaipur
+Chennai,22-01-26,9,4,50655,Action-Packed,Private Apartments,Culture|Nature,Ladakh
+Pune,26-08-26,3,1,13915,Relaxed,Mid-range Hotels,Culture|Food|History,Varanasi
+Chennai,18-12-25,5,6,98933,Relaxed,Luxury Hotels,Beaches|History|Nature,Maldives
+Hyderabad,08-07-26,5,4,54276,Balanced,Mid-range Hotels,Beaches,Bali
+Delhi,16-12-25,6,1,32811,Balanced,Budget,Beaches|Culture,Goa
+Pune,20-02-26,5,1,56011,Relaxed,Mid-range Hotels,Beaches|Food,Langkawi
+Ahmedabad,20-12-25,3,1,40293,Balanced,Budget,Beaches,Phuket
+Ahmedabad,03-05-26,6,3,55919,Balanced,Luxury Hotels,Food,Istanbul
+Bangalore,25-02-26,2,6,16641,Relaxed,Mid-range Hotels,Culture,Varanasi
+Kolkata,25-09-26,2,6,17206,Relaxed,Mid-range Hotels,Culture|Nightlife,Varanasi
+Jaipur,19-02-26,5,2,132467,Relaxed,Private Apartments,Adventure|History|Nature,Maldives
+Ahmedabad,28-07-26,3,1,20185,Relaxed,Mid-range Hotels,Adventure|Culture|Food,Coorg
+Bangalore,08-10-26,7,2,50622,Balanced,Private Apartments,Beaches|Nature,Andaman & Nicobar Islands
+Mumbai,01-03-26,6,5,28079,Balanced,Private Apartments,Adventure|Beaches,Goa
+Mumbai,21-11-25,5,4,24150,Balanced,Private Apartments,Food|Nightlife,Jaipur
+Bangalore,18-08-26,5,5,19387,Action-Packed,Budget,Adventure|Nightlife|Spiritual,Rishikesh
+Mumbai,20-08-26,4,3,20942,Relaxed,Budget,Culture,Ooty
+Ahmedabad,16-04-26,1,5,10944,Relaxed,Mid-range Hotels,History,Varanasi
+Bangalore,23-07-26,4,4,41085,Balanced,Budget,Nightlife,Phuket
+Ahmedabad,30-09-26,4,6,62134,Balanced,Luxury Hotels,History|Nightlife,Singapore
+Kolkata,20-03-26,4,1,26223,Relaxed,Budget,History|Nature,Ooty
+Ahmedabad,10-05-26,6,5,43020,Balanced,Budget,Beaches|Nightlife,Phuket
+Kochi,27-11-25,5,5,43541,Relaxed,Luxury Hotels,Beaches,Bali
+Ahmedabad,17-02-26,3,5,23997,Balanced,Private Apartments,Food|Nightlife,Jaipur
+Jaipur,26-11-25,4,6,48543,Balanced,Luxury Hotels,History,Istanbul
+Kolkata,09-06-26,3,5,43196,Relaxed,Private Apartments,Beaches|Culture|History,Langkawi
+Kolkata,16-07-26,4,2,33026,Balanced,Mid-range Hotels,Food|Nature,Da Nang
+Delhi,10-07-26,4,5,19766,Relaxed,Private Apartments,Food|Nature,Ooty
+Chennai,15-02-26,6,5,29852,Relaxed,Private Apartments,Beaches,Langkawi
+Hyderabad,08-06-26,3,2,25267,Balanced,Budget,Culture|Nature|Spiritual,Shimla
+Chennai,21-11-25,3,5,19464,Action-Packed,Private Apartments,Nature,Rishikesh
+Chennai,26-06-26,2,5,12416,Balanced,Private Apartments,Adventure|Nightlife,Rishikesh
+Hyderabad,30-04-26,4,6,27531,Balanced,Mid-range Hotels,History|Nightlife,Goa
+Hyderabad,05-07-26,5,4,34763,Balanced,Private Apartments,Nightlife,Goa
+Mumbai,20-12-25,4,4,87092,Relaxed,Private Apartments,Beaches|Food|Spiritual,Maldives
+Delhi,24-08-26,2,1,23673,Balanced,Mid-range Hotels,History,Shimla
+Ahmedabad,29-08-26,5,5,19647,Relaxed,Private Apartments,Culture|Nightlife,Ooty
+Mumbai,15-09-26,4,2,22322,Action-Packed,Private Apartments,Adventure,Rishikesh
+Bangalore,05-11-25,3,5,63867,Balanced,Luxury Hotels,Adventure|Food|Nightlife,Dubai
+Jaipur,25-04-26,4,4,72746,Balanced,Mid-range Hotels,Food|History|Nature,Istanbul
+Hyderabad,06-06-26,6,2,44488,Balanced,Luxury Hotels,Beaches,Bali
+Delhi,29-11-25,2,5,29098,Relaxed,Mid-range Hotels,Food,Colombo
+Pune,03-05-26,6,3,90898,Balanced,Luxury Hotels,Culture,Dubai
+Delhi,16-11-25,8,2,49676,Relaxed,Luxury Hotels,Nature,Andaman & Nicobar Islands
+Delhi,06-02-26,1,2,18740,Relaxed,Mid-range Hotels,History|Spiritual,Varanasi
+Chennai,04-10-26,4,2,39940,Relaxed,Mid-range Hotels,Nature,Langkawi
+Chennai,22-01-26,6,5,35371,Balanced,Budget,Adventure|Food|Nature,Phuket
+Kochi,14-04-26,3,1,42707,Balanced,Private Apartments,Beaches,Goa
+Delhi,06-08-26,8,4,17357,Balanced,Private Apartments,Adventure|Culture,Manali
+Pune,14-08-26,5,6,20839,Relaxed,Budget,History|Nature|Nightlife,Ooty
+Kolkata,18-08-26,3,6,15941,Balanced,Budget,Spiritual,Pokhara
+Kolkata,18-02-26,5,5,21376,Relaxed,Budget,Culture|History|Nightlife,Ooty
+Bangalore,30-05-26,6,4,27017,Relaxed,Private Apartments,Food,Coorg
+Mumbai,17-09-26,6,4,19151,Balanced,Budget,Adventure|Nature,Shimla
+Pune,03-05-26,6,3,90898,Balanced,Luxury Hotels,Culture,Dubai
+Mumbai,19-08-26,4,6,15585,Balanced,Private Apartments,Spiritual,Rishikesh
+Delhi,11-12-25,7,5,40307,Balanced,Mid-range Hotels,Food|Nature|Nightlife,Phuket
+Jaipur,26-03-26,5,4,18828,Balanced,Budget,Adventure,Rishikesh
+Kochi,09-06-26,6,5,48305,Balanced,Luxury Hotels,Food,Bali
+Kolkata,10-09-26,6,5,62650,Relaxed,Private Apartments,Nature,Maldives
+Kochi,26-10-26,3,3,23734,Balanced,Private Apartments,Adventure,Pokhara
+Kochi,02-02-26,7,1,78645,Balanced,Mid-range Hotels,Culture|Food,Istanbul
+Jaipur,17-11-25,4,4,23322,Balanced,Budget,Adventure|Culture|Nature,Manali
+Chennai,26-07-26,5,5,39627,Relaxed,Mid-range Hotels,Beaches,Langkawi
+Chennai,12-05-26,5,1,25648,Balanced,Mid-range Hotels,Nightlife,Goa
+Bangalore,25-03-26,7,3,39196,Balanced,Budget,Food,Phuket
+Chennai,29-12-25,3,5,14075,Relaxed,Budget,Nature|Spiritual,Varanasi
+Mumbai,12-08-26,8,6,38195,Relaxed,Luxury Hotels,Nature|Spiritual,Andaman & Nicobar Islands
+Mumbai,07-08-26,5,6,25219,Balanced,Mid-range Hotels,History|Nature,Jaipur
+Bangalore,13-10-26,3,5,14771,Balanced,Budget,Spiritual,Rishikesh
+Ahmedabad,30-09-26,4,6,62134,Balanced,Luxury Hotels,History|Nightlife,Singapore
+Mumbai,17-08-26,7,2,44606,Balanced,Mid-range Hotels,Beaches|Culture|Nightlife,Phuket
+Mumbai,20-08-26,4,3,20942,Relaxed,Budget,Culture,Ooty
+Ahmedabad,24-02-26,7,3,51478,Balanced,Luxury Hotels,Beaches|Food,Andaman & Nicobar Islands
+Bangalore,18-02-26,8,5,44678,Relaxed,Luxury Hotels,Culture|Nature,Andaman & Nicobar Islands
+Delhi,23-08-26,6,1,21041,Relaxed,Budget,Culture|History,Shimla
+Kolkata,14-01-26,4,3,19830,Relaxed,Private Apartments,Food|Nature,Ooty
+Jaipur,19-09-26,3,4,39352,Relaxed,Private Apartments,Beaches,Langkawi
+Ahmedabad,29-09-26,3,1,18547,Relaxed,Mid-range Hotels,Culture|Spiritual,Varanasi
+Hyderabad,18-08-26,3,5,38395,Relaxed,Private Apartments,Beaches|Food,Langkawi
+Ahmedabad,09-05-26,5,6,43529,Balanced,Mid-range Hotels,Culture,Istanbul
+Pune,25-10-26,6,4,44835,Action-Packed,Mid-range Hotels,Adventure|Food,Ladakh
+Jaipur,31-05-26,5,6,39436,Balanced,Luxury Hotels,Food,Andaman & Nicobar Islands
+Delhi,28-11-25,4,6,38109,Relaxed,Luxury Hotels,Beaches|Nightlife,Bali
+Kochi,19-09-26,4,1,80539,Action-Packed,Private Apartments,Culture|Food,Dubai
+Bangalore,10-08-26,3,6,19274,Relaxed,Private Apartments,Food|Nature,Ooty
+Ahmedabad,20-11-25,7,4,36885,Relaxed,Mid-range Hotels,Nature|Nightlife,Bali
+Delhi,20-05-26,3,5,57037,Action-Packed,Luxury Hotels,Beaches|Culture,Dubai
+Chennai,17-11-25,3,2,94241,Balanced,Private Apartments,Culture|Nightlife,Dubai
+Kochi,30-11-25,6,6,40435,Balanced,Private Apartments,Adventure|Culture|History,Ladakh
+Kolkata,01-06-26,3,5,17421,Balanced,Private Apartments,Beaches|Culture|Nature,Rishikesh
+Chennai,14-02-26,3,1,27901,Action-Packed,Budget,Adventure,Rishikesh
+Kolkata,01-09-26,4,6,16781,Relaxed,Budget,History|Nature,Pokhara
+Mumbai,17-07-26,3,4,29123,Relaxed,Budget,Food,Colombo
+Chennai,29-12-25,3,5,14075,Relaxed,Budget,Nature|Spiritual,Varanasi
+Mumbai,24-05-26,6,2,36801,Action-Packed,Budget,Adventure|Culture|Nightlife,Goa
+Mumbai,06-02-26,9,3,50410,Balanced,Private Apartments,Adventure,Ladakh
+Kolkata,03-08-26,5,1,62431,Balanced,Private Apartments,Beaches|History|Spiritual,Andaman & Nicobar Islands
+Ahmedabad,02-07-26,2,6,12445,Relaxed,Budget,History|Spiritual,Varanasi
+Kolkata,15-04-26,6,1,26059,Balanced,Budget,Adventure|Beaches,Manali
+Hyderabad,28-05-26,7,4,39092,Relaxed,Luxury Hotels,Food|Spiritual,Andaman & Nicobar Islands
+Mumbai,06-02-26,9,3,50410,Balanced,Private Apartments,Adventure,Ladakh
+Delhi,07-12-25,5,1,66029,Balanced,Luxury Hotels,Culture,Dubai
+Kolkata,15-04-26,4,5,51912,Balanced,Luxury Hotels,Beaches|Culture|Food,Singapore
+Chennai,12-04-26,5,1,59933,Balanced,Luxury Hotels,Nature,Andaman & Nicobar Islands
+Ahmedabad,19-05-26,1,2,17294,Relaxed,Budget,Culture|History|Spiritual,Varanasi
+Kolkata,18-08-26,3,6,15941,Balanced,Budget,Spiritual,Pokhara
+Pune,07-02-26,6,5,35129,Balanced,Private Apartments,Culture|Food|Spiritual,Da Nang
+Ahmedabad,21-01-26,3,4,38057,Relaxed,Mid-range Hotels,Beaches,Langkawi
+Chennai,29-11-25,5,6,20721,Relaxed,Private Apartments,Nature,Coorg
+Jaipur,06-01-26,2,3,16526,Relaxed,Mid-range Hotels,Culture|History|Nature,Varanasi
+Hyderabad,10-03-26,4,2,22052,Balanced,Private Apartments,Nature,Pokhara
+Kochi,06-02-26,5,2,53288,Relaxed,Luxury Hotels,Food|History,Andaman & Nicobar Islands
+Chennai,31-05-26,5,5,44610,Relaxed,Mid-range Hotels,Adventure|Beaches|Nightlife,Langkawi
+Jaipur,20-01-26,5,1,34590,Balanced,Mid-range Hotels,Nature|Nightlife,Phuket
+Pune,15-12-25,6,1,27734,Relaxed,Private Apartments,Food|History,Coorg
+Delhi,02-06-26,4,3,142169,Relaxed,Luxury Hotels,Adventure|Nature,Maldives
+Delhi,20-09-26,4,3,18730,Relaxed,Budget,Nature,Ooty
+Kolkata,25-09-26,2,6,17206,Relaxed,Mid-range Hotels,Culture|Nightlife,Varanasi
+Bangalore,01-09-26,5,5,17425,Action-Packed,Private Apartments,Nightlife|Spiritual,Rishikesh
+Mumbai,15-09-26,4,2,22322,Action-Packed,Private Apartments,Adventure,Rishikesh
+Hyderabad,14-05-26,5,4,112704,Relaxed,Luxury Hotels,History|Nature,Maldives
+Jaipur,26-12-25,4,2,20184,Action-Packed,Private Apartments,Spiritual,Rishikesh
+Kolkata,21-03-26,4,3,15723,Action-Packed,Private Apartments,History|Nature,Rishikesh
+Bangalore,13-04-26,4,2,26310,Relaxed,Budget,Food|Nightlife|Spiritual,Colombo
+Mumbai,08-05-26,5,2,114167,Relaxed,Luxury Hotels,Adventure|History|Nature,Maldives
+Kolkata,10-09-26,6,5,62650,Relaxed,Private Apartments,Nature,Maldives
+Jaipur,24-12-25,3,1,33800,Relaxed,Mid-range Hotels,Culture|Food|Spiritual,Colombo
+Bangalore,21-05-26,6,5,16264,Balanced,Mid-range Hotels,Adventure|Food|Nature,Shimla
+Jaipur,12-05-26,3,6,19662,Relaxed,Budget,Adventure|Culture,Colombo
+Kochi,30-01-26,3,2,14718,Relaxed,Budget,History|Spiritual,Varanasi
+Kochi,05-07-26,5,4,58195,Balanced,Luxury Hotels,Culture|History,Istanbul
+Hyderabad,16-04-26,4,4,51940,Balanced,Private Apartments,Food,Dubai
+Hyderabad,18-04-26,7,1,55039,Balanced,Private Apartments,Adventure|History|Nightlife,Ladakh
+Ahmedabad,25-03-26,2,6,22790,Balanced,Private Apartments,Culture,Jaipur
+Delhi,01-03-26,3,4,68660,Balanced,Luxury Hotels,Food|History|Spiritual,Dubai
+Delhi,30-11-25,8,5,39764,Balanced,Private Apartments,Adventure|Nature|Nightlife,Ladakh
+Kolkata,07-07-26,5,1,109472,Relaxed,Private Apartments,Beaches,Maldives
+Jaipur,02-03-26,4,2,89467,Balanced,Luxury Hotels,Nightlife|Spiritual,Dubai
+Ahmedabad,05-01-26,4,3,49432,Relaxed,Private Apartments,Beaches|Culture|Nature,Andaman & Nicobar Islands
+Ahmedabad,24-04-26,6,5,65569,Balanced,Luxury Hotels,Culture,Istanbul
+Bangalore,13-04-26,5,3,25694,Relaxed,Mid-range Hotels,Adventure|Culture|Nature,Colombo
+Kolkata,24-01-26,7,3,52541,Balanced,Private Apartments,Nature,Andaman & Nicobar Islands
+Mumbai,01-04-26,3,4,24899,Relaxed,Private Apartments,Spiritual,Pokhara
+Chennai,26-12-25,3,1,22680,Balanced,Budget,Culture|History|Nature,Manali
+Hyderabad,23-12-25,3,3,17206,Action-Packed,Private Apartments,Nature,Rishikesh
+Hyderabad,31-05-26,11,4,59460,Action-Packed,Mid-range Hotels,Adventure|Beaches,Ladakh
+Kochi,15-12-25,6,2,53482,Action-Packed,Private Apartments,Adventure|Culture|Nature,Dubai
+Mumbai,12-12-25,3,3,29884,Balanced,Budget,Nightlife,Goa
+Mumbai,15-02-26,6,4,45921,Balanced,Luxury Hotels,Beaches,Andaman & Nicobar Islands
+Pune,26-08-26,7,3,22147,Relaxed,Private Apartments,Nature,Manali
+Pune,06-10-26,6,5,38715,Balanced,Mid-range Hotels,Food|History,Phuket
+Ahmedabad,23-12-25,7,3,21380,Balanced,Private Apartments,Adventure|Food,Manali
+Kochi,16-11-25,5,4,17553,Balanced,Private Apartments,Nature,Rishikesh
+Chennai,26-03-26,3,2,22234,Balanced,Private Apartments,Food|Nature|Nightlife,Manali
+Bangalore,22-05-26,3,2,26280,Relaxed,Mid-range Hotels,Beaches|Culture|History,Colombo
+Kochi,29-10-26,6,1,28991,Relaxed,Private Apartments,Culture|Nature,Manali
+Hyderabad,24-09-26,4,1,67151,Balanced,Luxury Hotels,Nature|Nightlife,Singapore
+Mumbai,20-10-26,4,6,101500,Relaxed,Luxury Hotels,Beaches|History,Maldives
+Jaipur,01-01-26,5,3,83076,Balanced,Luxury Hotels,Beaches|Nightlife|Spiritual,Dubai
+Ahmedabad,20-04-26,4,1,20223,Balanced,Budget,Adventure|History|Spiritual,Pokhara
+Delhi,11-12-25,7,5,40307,Balanced,Mid-range Hotels,Food|Nature|Nightlife,Phuket
+Mumbai,29-07-26,3,1,20220,Relaxed,Private Apartments,Nature|Nightlife,Pokhara
+Mumbai,24-03-26,5,3,40191,Balanced,Mid-range Hotels,Culture|Nature|Spiritual,Da Nang
+Hyderabad,31-01-26,5,2,49371,Balanced,Private Apartments,Nature,Andaman & Nicobar Islands
+Delhi,09-02-26,4,1,21779,Relaxed,Private Apartments,Beaches|Spiritual,Pokhara
+Ahmedabad,28-07-26,3,1,20185,Relaxed,Mid-range Hotels,Adventure|Culture|Food,Coorg
+Chennai,12-12-25,4,6,88993,Relaxed,Private Apartments,History|Nature|Spiritual,Maldives
+Hyderabad,02-12-25,4,6,109312,Relaxed,Private Apartments,Adventure|Nature,Maldives
+Chennai,08-04-26,3,3,34956,Balanced,Mid-range Hotels,Food,Da Nang
+Jaipur,18-12-25,3,3,33985,Balanced,Mid-range Hotels,Culture|Food,Da Nang
+Bangalore,10-09-26,2,1,21099,Relaxed,Budget,Nature,Shimla
+Bangalore,21-04-26,7,5,16450,Balanced,Budget,Adventure|Culture|Nature,Manali
+Pune,25-08-26,6,1,39136,Action-Packed,Mid-range Hotels,Food|History|Nature,Goa
+Ahmedabad,24-09-26,3,4,18662,Relaxed,Budget,Culture|Food|Nature,Ooty
+Ahmedabad,15-12-25,3,5,114682,Relaxed,Luxury Hotels,History|Nature,Maldives
+Bangalore,03-11-25,5,3,18351,Relaxed,Mid-range Hotels,Culture,Colombo
+Hyderabad,07-05-26,4,1,67182,Balanced,Luxury Hotels,Culture|Food|History,Singapore
+Jaipur,26-03-26,5,4,18828,Balanced,Budget,Adventure,Rishikesh
+Kochi,21-08-26,3,5,20475,Relaxed,Budget,Nature,Ooty
+Hyderabad,01-09-26,3,4,25484,Relaxed,Budget,Adventure|Culture,Ooty
+Mumbai,19-08-26,4,6,15585,Balanced,Private Apartments,Spiritual,Rishikesh
+Pune,20-03-26,5,5,23940,Relaxed,Mid-range Hotels,Food,Colombo
+Kochi,22-11-25,4,4,11624,Balanced,Private Apartments,Spiritual,Rishikesh
+Hyderabad,25-04-26,3,1,16431,Balanced,Budget,Nature,Rishikesh
+Delhi,10-04-26,2,2,27671,Balanced,Private Apartments,Beaches|Culture|Nature,Jaipur
+Delhi,21-09-26,5,4,24969,Relaxed,Budget,Food,Colombo
+Mumbai,07-08-26,5,6,25219,Balanced,Mid-range Hotels,History|Nature,Jaipur
+Mumbai,02-12-25,4,2,32341,Relaxed,Private Apartments,Beaches|Nightlife,Langkawi
+Ahmedabad,03-12-25,4,5,97292,Relaxed,Private Apartments,Food|Nature|Spiritual,Maldives
+Pune,20-11-25,7,6,57892,Balanced,Private Apartments,Culture|Nature,Ladakh
+Ahmedabad,17-11-25,5,1,20781,Relaxed,Mid-range Hotels,Nature,Shimla
+Hyderabad,10-05-26,3,3,20369,Balanced,Private Apartments,History,Jaipur
+Pune,28-12-25,3,3,20470,Relaxed,Budget,Adventure|Beaches|Food,Manali
+Delhi,09-02-26,2,6,20826,Balanced,Private Apartments,Beaches|History|Nightlife,Jaipur
+Chennai,19-02-26,4,1,27763,Balanced,Private Apartments,Culture|History,Jaipur
+Kochi,22-11-25,4,4,11624,Balanced,Private Apartments,Spiritual,Rishikesh
+Mumbai,20-08-26,4,3,20942,Relaxed,Budget,Culture,Ooty
+Jaipur,06-01-26,2,3,16526,Relaxed,Mid-range Hotels,Culture|History|Nature,Varanasi
+Hyderabad,23-10-26,8,2,47909,Relaxed,Mid-range Hotels,Adventure|Nature,Bali
+Jaipur,17-11-25,4,4,23322,Balanced,Budget,Adventure|Culture|Nature,Manali
+Delhi,06-02-26,1,2,18740,Relaxed,Mid-range Hotels,History|Spiritual,Varanasi
+Pune,27-07-26,2,1,28001,Relaxed,Private Apartments,Culture|Food,Ooty
+Mumbai,02-12-25,4,2,32341,Relaxed,Private Apartments,Beaches|Nightlife,Langkawi
+Mumbai,24-03-26,5,3,40191,Balanced,Mid-range Hotels,Culture|Nature|Spiritual,Da Nang
+Ahmedabad,10-10-26,6,4,47758,Action-Packed,Private Apartments,Food|Nature,Ladakh
+Pune,14-08-26,5,6,20839,Relaxed,Budget,History|Nature|Nightlife,Ooty
+Pune,06-10-26,6,5,38715,Balanced,Mid-range Hotels,Food|History,Phuket
+Kolkata,16-09-26,6,3,28654,Relaxed,Private Apartments,Beaches|Food|History,Langkawi
+Jaipur,20-01-26,5,1,34590,Balanced,Mid-range Hotels,Nature|Nightlife,Phuket
+Kolkata,04-03-26,3,4,55808,Balanced,Mid-range Hotels,Beaches|Food,Singapore
+Chennai,14-06-26,5,2,70897,Balanced,Mid-range Hotels,Culture|Food,Singapore
+Bangalore,04-05-26,7,3,19728,Balanced,Budget,Adventure,Manali
+Hyderabad,01-09-26,3,4,25484,Relaxed,Budget,Adventure|Culture,Ooty
+Bangalore,10-10-26,6,3,23976,Balanced,Private Apartments,Adventure|Beaches|Nightlife,Manali
+Ahmedabad,19-05-26,1,2,17294,Relaxed,Budget,Culture|History|Spiritual,Varanasi
+Mumbai,04-05-26,4,6,55980,Balanced,Luxury Hotels,Food,Istanbul
+Kolkata,06-05-26,4,1,37111,Balanced,Private Apartments,Culture,Jaipur
+Pune,20-03-26,3,2,19987,Relaxed,Private Apartments,Adventure|Beaches|Nature,Pokhara
+Chennai,29-11-25,11,2,70534,Action-Packed,Mid-range Hotels,Adventure,Ladakh
+Delhi,07-12-25,5,1,66029,Balanced,Luxury Hotels,Culture,Dubai
+Delhi,04-01-26,4,6,31662,Balanced,Luxury Hotels,Food|Nightlife|Spiritual,Bali
+Mumbai,05-08-26,3,1,22554,Balanced,Budget,Nature,Manali
+Hyderabad,12-12-25,4,5,64880,Balanced,Luxury Hotels,Culture|Spiritual,Singapore
+Kolkata,21-03-26,4,3,15723,Action-Packed,Private Apartments,History|Nature,Rishikesh
+Kochi,26-03-26,2,4,19199,Balanced,Private Apartments,Adventure|Nature,Rishikesh
+Bangalore,21-04-26,7,5,16450,Balanced,Budget,Adventure|Culture|Nature,Manali
+Chennai,14-06-26,5,2,70897,Balanced,Mid-range Hotels,Culture|Food,Singapore
+Ahmedabad,27-07-26,5,1,18992,Relaxed,Budget,Nature|Spiritual,Pokhara
+Delhi,03-11-25,5,5,36564,Balanced,Private Apartments,Nature,Andaman & Nicobar Islands
+Chennai,09-05-26,3,4,21120,Relaxed,Private Apartments,Nature|Nightlife|Spiritual,Coorg
+Chennai,31-05-26,5,5,44610,Relaxed,Mid-range Hotels,Adventure|Beaches|Nightlife,Langkawi
+Hyderabad,07-09-26,6,5,29335,Balanced,Mid-range Hotels,Beaches,Phuket
+Hyderabad,12-02-26,3,3,25423,Relaxed,Private Apartments,History|Nature|Spiritual,Pokhara
+Mumbai,17-09-26,6,4,19151,Balanced,Budget,Adventure|Nature,Shimla
+Mumbai,04-10-26,5,1,58462,Balanced,Mid-range Hotels,Beaches|History|Nightlife,Istanbul
+Bangalore,07-12-25,7,5,40394,Balanced,Mid-range Hotels,Food|Nature|Nightlife,Phuket
+Jaipur,26-12-25,4,1,33363,Relaxed,Mid-range Hotels,Beaches,Bali
+Chennai,04-10-26,4,2,39940,Relaxed,Mid-range Hotels,Nature,Langkawi
+Delhi,06-07-26,5,3,73377,Balanced,Mid-range Hotels,Food|History,Singapore
+Jaipur,21-02-26,3,4,26975,Balanced,Private Apartments,Adventure|Food,Manali
+Bangalore,25-11-25,2,3,23589,Relaxed,Budget,Beaches|Food|Nature,Colombo
+Chennai,29-09-26,10,2,59724,Balanced,Private Apartments,Nature,Ladakh
+Kolkata,08-09-26,5,2,69850,Action-Packed,Private Apartments,Food|History,Dubai
+Bangalore,10-09-26,2,1,21099,Relaxed,Budget,Nature,Shimla
+Ahmedabad,06-11-25,3,6,20384,Balanced,Mid-range Hotels,Beaches|Food|Nightlife,Jaipur
+Hyderabad,15-09-26,5,4,23338,Balanced,Mid-range Hotels,Adventure|Food|History,Jaipur
+Kolkata,20-11-25,3,1,23224,Relaxed,Mid-range Hotels,Adventure|Culture|Nature,Coorg
+Bangalore,10-03-26,8,6,21946,Balanced,Budget,Nature,Manali
+Delhi,30-04-26,5,5,27914,Balanced,Private Apartments,Beaches|Culture|Nature,Jaipur
+Pune,19-11-25,5,1,39131,Balanced,Private Apartments,Food|Spiritual,Jaipur
+Kolkata,03-08-26,3,4,14231,Relaxed,Budget,History|Nature|Spiritual,Pokhara
+Kochi,18-04-26,2,3,28758,Relaxed,Mid-range Hotels,Culture,Colombo
+Hyderabad,25-09-26,4,2,74845,Action-Packed,Private Apartments,Adventure|Beaches|Food,Dubai
+Mumbai,08-09-26,3,2,18524,Relaxed,Mid-range Hotels,Culture|Food|Spiritual,Varanasi
+Kolkata,19-06-26,4,1,25343,Relaxed,Private Apartments,Adventure|Nature,Ooty
+Delhi,16-12-25,6,1,32811,Balanced,Budget,Beaches|Culture,Goa
+Chennai,21-08-26,6,2,19140,Relaxed,Budget,Food|Nature,Shimla
+Chennai,01-12-25,4,6,16350,Action-Packed,Private Apartments,Culture|Spiritual,Rishikesh
+Jaipur,02-02-26,6,1,19955,Relaxed,Budget,Beaches|Nature,Shimla
+Hyderabad,23-07-26,4,1,27769,Relaxed,Budget,Food,Colombo
+Kolkata,25-07-26,5,4,22903,Relaxed,Private Apartments,Culture,Ooty
+Kolkata,02-02-26,6,4,60614,Balanced,Mid-range Hotels,Adventure|History|Spiritual,Ladakh
+Pune,24-08-26,3,2,15743,Relaxed,Budget,Food|Nature,Shimla
+Delhi,23-06-26,6,5,35615,Relaxed,Mid-range Hotels,Beaches,Langkawi
+Ahmedabad,30-10-26,8,1,21369,Relaxed,Private Apartments,Food|Nature|Nightlife,Manali
+Pune,22-12-25,3,3,16520,Relaxed,Private Apartments,Adventure|Beaches|Nature,Pokhara
+Ahmedabad,02-07-26,2,6,12445,Relaxed,Budget,History|Spiritual,Varanasi
+Chennai,27-06-26,3,6,25262,Action-Packed,Budget,Beaches|Food|Nightlife,Goa
+Ahmedabad,01-09-26,4,1,44335,Balanced,Luxury Hotels,Culture|Food|Nightlife,Istanbul
+Hyderabad,08-06-26,3,2,25267,Balanced,Budget,Culture|Nature|Spiritual,Shimla
+Delhi,03-01-26,6,5,17794,Relaxed,Private Apartments,Adventure|Nature,Pokhara
+Mumbai,17-03-26,4,3,33783,Balanced,Mid-range Hotels,Culture|Food|History,Phuket
+Delhi,28-05-26,4,6,21100,Relaxed,Budget,Culture|Nature,Ooty
+Hyderabad,12-02-26,3,3,25423,Relaxed,Private Apartments,History|Nature|Spiritual,Pokhara
+Delhi,16-09-26,3,2,15027,Balanced,Budget,Adventure,Rishikesh
+Kochi,17-02-26,4,4,16516,Action-Packed,Private Apartments,Spiritual,Rishikesh
+Kolkata,15-04-26,6,1,26059,Balanced,Budget,Adventure|Beaches,Manali
+Jaipur,01-07-26,6,2,96697,Action-Packed,Private Apartments,Adventure|Beaches|Culture,Dubai
+Hyderabad,24-09-26,5,5,48477,Relaxed,Private Apartments,Beaches,Andaman & Nicobar Islands
+Pune,27-07-26,2,1,28001,Relaxed,Private Apartments,Culture|Food,Ooty
+Delhi,26-05-26,3,2,32075,Relaxed,Budget,Culture|Nightlife,Colombo
+Jaipur,15-04-26,7,6,40341,Balanced,Luxury Hotels,History,Istanbul
+Bangalore,04-02-26,6,1,46555,Action-Packed,Budget,Food,Goa
+Hyderabad,09-12-25,5,2,56487,Balanced,Private Apartments,Food,Andaman & Nicobar Islands
+Kochi,22-07-26,6,4,20343,Relaxed,Mid-range Hotels,History,Shimla
+Hyderabad,30-04-26,4,6,27531,Balanced,Mid-range Hotels,History|Nightlife,Goa
+Jaipur,13-08-26,4,1,33770,Balanced,Private Apartments,Culture,Da Nang
+Jaipur,05-12-25,4,3,72376,Balanced,Luxury Hotels,Nightlife|Spiritual,Dubai
+Mumbai,13-10-26,3,3,22574,Relaxed,Private Apartments,Nature,Pokhara
+Kolkata,21-03-26,4,3,15723,Action-Packed,Private Apartments,History|Nature,Rishikesh
+Mumbai,08-05-26,5,2,114167,Relaxed,Luxury Hotels,Adventure|History|Nature,Maldives
+Chennai,14-02-26,3,1,27901,Action-Packed,Budget,Adventure,Rishikesh
+Mumbai,11-07-26,4,1,72260,Balanced,Luxury Hotels,Culture|Nightlife,Singapore
+Mumbai,22-07-26,7,5,37263,Balanced,Mid-range Hotels,Food,Bali
+Kochi,17-03-26,5,5,36745,Relaxed,Private Apartments,Beaches,Langkawi
+Kolkata,23-11-25,5,4,19186,Relaxed,Private Apartments,Culture,Ooty
+Hyderabad,01-09-26,3,4,25484,Relaxed,Budget,Adventure|Culture,Ooty
+Mumbai,14-03-26,4,2,18291,Relaxed,Budget,History,Shimla
+Kolkata,23-12-25,5,5,21634,Balanced,Mid-range Hotels,Adventure|Beaches|History,Shimla
+Mumbai,24-11-25,1,2,16219,Relaxed,Mid-range Hotels,Beaches|Culture,Varanasi
+Ahmedabad,26-03-26,6,6,34568,Relaxed,Mid-range Hotels,Adventure|Food,Bali
+Bangalore,10-08-26,3,6,19274,Relaxed,Private Apartments,Food|Nature,Ooty
+Kolkata,16-01-26,3,3,13248,Relaxed,Mid-range Hotels,Nature|Spiritual,Shimla
+Ahmedabad,12-09-26,4,1,23881,Balanced,Mid-range Hotels,Adventure|Beaches|Nature,Shimla
+Ahmedabad,30-06-26,4,3,26542,Relaxed,Mid-range Hotels,Culture|Food|Spiritual,Colombo
+Ahmedabad,10-06-26,2,6,22489,Balanced,Mid-range Hotels,History|Nightlife,Jaipur
+Bangalore,10-11-25,4,5,16396,Relaxed,Private Apartments,Food|Nature|Spiritual,Coorg
+Kochi,26-02-26,5,4,72307,Balanced,Luxury Hotels,Beaches|Nightlife,Singapore
+Mumbai,21-11-25,5,6,37822,Relaxed,Luxury Hotels,Nature,Bali
+Bangalore,01-09-26,5,5,17425,Action-Packed,Private Apartments,Nightlife|Spiritual,Rishikesh
+Ahmedabad,17-11-25,3,5,37532,Balanced,Mid-range Hotels,Beaches|Culture|Nightlife,Phuket
+Mumbai,10-11-25,6,5,44804,Relaxed,Mid-range Hotels,Beaches|Culture|Food,Bali
+Mumbai,07-05-26,5,6,34861,Relaxed,Private Apartments,Food,Andaman & Nicobar Islands
+Chennai,08-08-26,4,6,41844,Action-Packed,Budget,Beaches|Food,Goa
+Pune,13-01-26,4,3,55343,Balanced,Luxury Hotels,Culture|History|Spiritual,Istanbul
+Kochi,22-07-26,6,4,20343,Relaxed,Mid-range Hotels,History,Shimla
+Chennai,16-04-26,6,4,41601,Balanced,Budget,Nightlife,Phuket
+Kolkata,03-08-26,3,4,14231,Relaxed,Budget,History|Nature|Spiritual,Pokhara
+Bangalore,14-10-26,3,2,74072,Balanced,Luxury Hotels,Culture|History|Nature,Singapore
+Hyderabad,12-06-26,4,5,52462,Balanced,Luxury Hotels,Culture|Nightlife,Istanbul
+Chennai,29-11-25,11,2,70534,Action-Packed,Mid-range Hotels,Adventure,Ladakh
+Mumbai,15-10-26,3,3,27965,Balanced,Private Apartments,Culture|History|Nightlife,Jaipur
+Mumbai,13-07-26,5,4,39305,Relaxed,Private Apartments,Beaches|Food,Andaman & Nicobar Islands
+Bangalore,01-09-26,5,5,17425,Action-Packed,Private Apartments,Nightlife|Spiritual,Rishikesh
+Pune,04-09-26,5,5,60741,Balanced,Mid-range Hotels,Beaches|Culture,Istanbul
+Jaipur,29-10-26,4,1,16668,Action-Packed,Private Apartments,Adventure|Spiritual,Rishikesh
+Ahmedabad,10-06-26,2,6,22489,Balanced,Mid-range Hotels,History|Nightlife,Jaipur
+Ahmedabad,08-01-26,5,2,31379,Balanced,Mid-range Hotels,Nature|Nightlife,Phuket
+Bangalore,05-01-26,5,1,67509,Balanced,Luxury Hotels,Beaches|Food|Spiritual,Singapore
+Ahmedabad,19-12-25,6,2,39316,Balanced,Private Apartments,Beaches,Da Nang
+Kolkata,23-11-25,2,3,24233,Balanced,Budget,Nature,Shimla
+Ahmedabad,14-07-26,4,1,36671,Balanced,Mid-range Hotels,Beaches|Culture|History,Da Nang
+Kochi,13-07-26,3,5,47170,Balanced,Luxury Hotels,Adventure|Food|History,Dubai
+Bangalore,05-01-26,5,1,67509,Balanced,Luxury Hotels,Beaches|Food|Spiritual,Singapore
+Chennai,18-01-26,5,5,20555,Balanced,Budget,Nature,Pokhara
+Delhi,11-12-25,7,5,40307,Balanced,Mid-range Hotels,Food|Nature|Nightlife,Phuket
+Ahmedabad,14-07-26,6,4,71902,Action-Packed,Luxury Hotels,Nightlife,Dubai
+Delhi,31-01-26,7,6,31479,Action-Packed,Mid-range Hotels,Nightlife,Goa
+Kolkata,06-07-26,9,1,68701,Balanced,Mid-range Hotels,Adventure,Ladakh
+Pune,30-11-25,10,6,50416,Action-Packed,Mid-range Hotels,Adventure|Beaches|Nature,Ladakh
+Chennai,20-01-26,2,3,21511,Relaxed,Budget,Culture,Ooty
+Ahmedabad,02-07-26,2,6,12445,Relaxed,Budget,History|Spiritual,Varanasi
+Kolkata,14-12-25,5,1,18775,Balanced,Budget,Beaches|Food|Nature,Rishikesh
+Ahmedabad,26-06-26,6,2,19533,Relaxed,Mid-range Hotels,Adventure|Culture|Nature,Coorg
+Hyderabad,24-04-26,4,2,25178,Relaxed,Budget,Adventure|Beaches|Culture,Colombo
+Hyderabad,26-04-26,6,5,15646,Balanced,Budget,Adventure|Nature|Spiritual,Pokhara
+Kochi,27-05-26,7,5,59391,Balanced,Mid-range Hotels,Food,Istanbul
+Mumbai,09-12-25,4,3,23391,Relaxed,Mid-range Hotels,Food,Coorg
+Pune,03-04-26,4,6,44365,Balanced,Luxury Hotels,Food,Singapore
+Kolkata,04-03-26,3,4,55808,Balanced,Mid-range Hotels,Beaches|Food,Singapore
+Ahmedabad,29-09-26,3,1,18547,Relaxed,Mid-range Hotels,Culture|Spiritual,Varanasi
+Mumbai,01-06-26,3,4,34848,Relaxed,Budget,Culture,Colombo
+Mumbai,09-08-26,4,2,27679,Relaxed,Private Apartments,Nature,Coorg
+Hyderabad,12-06-26,1,6,14571,Relaxed,Mid-range Hotels,Culture|Food|History,Varanasi
+Chennai,21-08-26,6,2,19140,Relaxed,Budget,Food|Nature,Shimla
+Delhi,20-09-26,4,3,18730,Relaxed,Budget,Nature,Ooty
+Bangalore,25-12-25,5,6,14913,Relaxed,Budget,Nature,Shimla
+Mumbai,15-01-26,5,2,25383,Balanced,Private Apartments,Beaches|Nightlife|Spiritual,Pokhara
+Delhi,30-04-26,5,5,27914,Balanced,Private Apartments,Beaches|Culture|Nature,Jaipur
+Mumbai,04-05-26,4,6,55980,Balanced,Luxury Hotels,Food,Istanbul
+Kochi,15-01-26,5,2,67567,Balanced,Mid-range Hotels,Culture|Food|Spiritual,Singapore
+Hyderabad,18-04-26,7,1,55039,Balanced,Private Apartments,Adventure|History|Nightlife,Ladakh
+Bangalore,10-03-26,8,6,21946,Balanced,Budget,Nature,Manali
+Mumbai,20-08-26,4,3,20942,Relaxed,Budget,Culture,Ooty
+Chennai,20-01-26,2,3,21511,Relaxed,Budget,Culture,Ooty
+Bangalore,21-05-26,6,5,16264,Balanced,Mid-range Hotels,Adventure|Food|Nature,Shimla
+Hyderabad,18-10-26,5,1,51251,Balanced,Luxury Hotels,Culture|Nature,Singapore
+Chennai,12-12-25,4,6,88993,Relaxed,Private Apartments,History|Nature|Spiritual,Maldives
+Ahmedabad,19-12-25,6,2,39316,Balanced,Private Apartments,Beaches,Da Nang
+Bangalore,12-01-26,4,1,23475,Relaxed,Private Apartments,Culture|History,Ooty
+Kolkata,17-10-26,5,2,31570,Relaxed,Mid-range Hotels,Beaches,Langkawi
+Mumbai,11-09-26,7,6,38911,Balanced,Mid-range Hotels,Food,Phuket
+Ahmedabad,17-11-25,5,2,38895,Balanced,Private Apartments,Food|Nightlife,Andaman & Nicobar Islands
+Bangalore,01-04-26,5,3,30040,Relaxed,Budget,Food,Colombo
+Kochi,10-10-26,4,4,51988,Balanced,Mid-range Hotels,Adventure|Culture|Spiritual,Singapore
+Kolkata,01-08-26,5,1,30327,Relaxed,Budget,Nature,Ooty
+Bangalore,12-09-26,6,4,47855,Relaxed,Luxury Hotels,Beaches|History,Andaman & Nicobar Islands
+Pune,22-11-25,11,2,51779,Action-Packed,Private Apartments,Beaches|Nature|Nightlife,Ladakh
+Ahmedabad,27-07-26,5,1,18992,Relaxed,Budget,Nature|Spiritual,Pokhara
+Kolkata,10-11-25,3,4,45205,Relaxed,Private Apartments,Beaches|Spiritual,Langkawi
+Bangalore,08-03-26,5,6,22704,Balanced,Budget,Adventure|Food,Pokhara
+Mumbai,05-08-26,3,1,22554,Balanced,Budget,Nature,Manali
+Mumbai,17-03-26,4,3,33783,Balanced,Mid-range Hotels,Culture|Food|History,Phuket
+Delhi,26-05-26,3,2,32075,Relaxed,Budget,Culture|Nightlife,Colombo
+Bangalore,11-03-26,5,2,44890,Balanced,Budget,Beaches|Culture,Goa
+Pune,18-05-26,4,3,25437,Balanced,Private Apartments,Beaches|Nature,Pokhara
+Pune,04-05-26,4,1,58542,Balanced,Mid-range Hotels,Beaches|History,Istanbul
+Kochi,27-04-26,3,4,29050,Relaxed,Mid-range Hotels,Beaches|Food,Coorg
+Kochi,16-11-25,2,4,20497,Balanced,Budget,Adventure,Rishikesh
+Bangalore,25-03-26,7,3,39196,Balanced,Budget,Food,Phuket
+Kochi,23-11-25,12,1,50691,Action-Packed,Mid-range Hotels,Nature,Ladakh
+Kochi,29-05-26,7,5,59962,Balanced,Luxury Hotels,Culture,Istanbul
+Kochi,18-08-26,2,4,24255,Balanced,Private Apartments,Culture,Jaipur
+Jaipur,20-08-26,4,4,42534,Balanced,Private Apartments,Beaches,Da Nang
+Mumbai,21-11-25,5,4,24150,Balanced,Private Apartments,Food|Nightlife,Jaipur
+Kolkata,18-07-26,7,5,55969,Balanced,Mid-range Hotels,Beaches|History|Nature,Istanbul
+Chennai,16-04-26,6,4,41601,Balanced,Budget,Nightlife,Phuket
+Mumbai,26-04-26,6,3,14232,Relaxed,Private Apartments,Adventure|Beaches|History,Pokhara
+Kolkata,30-08-26,4,3,42141,Action-Packed,Mid-range Hotels,Nightlife,Goa
+Bangalore,13-03-26,5,4,32677,Balanced,Budget,Food,Phuket
+Kolkata,28-01-26,6,1,18416,Balanced,Private Apartments,Adventure,Pokhara
+Chennai,05-01-26,6,3,25970,Relaxed,Mid-range Hotels,Food,Coorg
+Mumbai,11-07-26,4,1,72260,Balanced,Luxury Hotels,Culture|Nightlife,Singapore
+Chennai,21-05-26,4,2,25608,Action-Packed,Private Apartments,Adventure|Nightlife,Goa
+Bangalore,21-02-26,5,6,20605,Relaxed,Mid-range Hotels,Food|History|Nature,Shimla
+Chennai,11-11-25,6,6,28098,Relaxed,Private Apartments,Beaches|History|Spiritual,Langkawi
+Pune,21-11-25,4,4,38434,Balanced,Mid-range Hotels,Food,Goa
+Kolkata,14-09-26,3,1,36063,Balanced,Private Apartments,Beaches|Nightlife,Da Nang
+Mumbai,11-03-26,7,1,41742,Action-Packed,Mid-range Hotels,Nightlife,Goa
+Delhi,29-04-26,3,3,33949,Relaxed,Mid-range Hotels,Beaches|Culture|Nature,Coorg
+Kochi,03-06-26,4,4,28467,Balanced,Mid-range Hotels,History,Jaipur
+Mumbai,12-09-26,6,4,31551,Balanced,Mid-range Hotels,Adventure|Food,Da Nang
+Kolkata,17-07-26,6,3,31509,Relaxed,Private Apartments,Beaches|Nature|Spiritual,Coorg
+Mumbai,04-03-26,5,6,50355,Balanced,Luxury Hotels,Culture|Food,Singapore
+Mumbai,05-07-26,1,3,15790,Relaxed,Mid-range Hotels,History|Nightlife,Varanasi
+Delhi,25-12-25,8,1,55173,Balanced,Mid-range Hotels,Adventure|Beaches|History,Bali
+Delhi,24-09-26,5,6,28996,Balanced,Private Apartments,Beaches|Culture,Jaipur
+Hyderabad,08-04-26,4,6,22567,Relaxed,Private Apartments,History|Nature|Spiritual,Ooty
+Mumbai,15-10-26,3,1,19289,Relaxed,Budget,History,Varanasi
+Ahmedabad,01-05-26,8,4,61608,Action-Packed,Mid-range Hotels,Adventure,Ladakh
+Delhi,17-12-25,3,3,21807,Relaxed,Budget,Nature,Shimla
+Ahmedabad,20-12-25,3,1,40293,Balanced,Budget,Beaches,Phuket
+Hyderabad,06-10-26,5,4,138917,Relaxed,Luxury Hotels,Beaches|Food,Maldives
+Mumbai,13-11-25,7,2,33363,Balanced,Mid-range Hotels,Nature,Bali
+Hyderabad,29-03-26,4,6,63076,Balanced,Mid-range Hotels,Food|Spiritual,Singapore
+Ahmedabad,25-03-26,2,6,22790,Balanced,Private Apartments,Culture,Jaipur
+Mumbai,08-05-26,5,2,114167,Relaxed,Luxury Hotels,Adventure|History|Nature,Maldives
+Bangalore,04-05-26,7,3,19728,Balanced,Budget,Adventure,Manali
+Pune,28-08-26,5,1,29788,Balanced,Mid-range Hotels,Culture|Food,Jaipur
+Kochi,09-11-25,2,3,18723,Relaxed,Mid-range Hotels,History|Nature,Shimla
+Hyderabad,06-10-26,5,4,138917,Relaxed,Luxury Hotels,Beaches|Food,Maldives
+Delhi,30-09-26,5,6,25646,Relaxed,Private Apartments,Adventure|History|Nature,Ooty
+Kolkata,25-09-26,2,6,17206,Relaxed,Mid-range Hotels,Culture|Nightlife,Varanasi
+Hyderabad,23-04-26,6,6,24548,Balanced,Budget,Beaches|Culture|Nightlife,Goa
+Bangalore,12-08-26,5,6,29244,Balanced,Mid-range Hotels,Beaches|Food|History,Da Nang
+Ahmedabad,30-10-26,8,1,21369,Relaxed,Private Apartments,Food|Nature|Nightlife,Manali
+Jaipur,26-07-26,5,2,55884,Balanced,Luxury Hotels,Culture|Food,Istanbul
+Hyderabad,16-04-26,4,4,51940,Balanced,Private Apartments,Food,Dubai
+Hyderabad,28-10-26,6,3,59621,Balanced,Mid-range Hotels,History|Spiritual,Istanbul
+Kochi,09-11-25,2,3,18723,Relaxed,Mid-range Hotels,History|Nature,Shimla
+Mumbai,08-05-26,5,2,114167,Relaxed,Luxury Hotels,Adventure|History|Nature,Maldives
+Kochi,02-12-25,5,5,21105,Balanced,Private Apartments,Adventure|Beaches|Spiritual,Manali
+Mumbai,05-10-26,2,6,14780,Relaxed,Mid-range Hotels,Culture|History,Varanasi
+Ahmedabad,23-04-26,3,4,19525,Balanced,Mid-range Hotels,Food|Nature,Shimla
+Delhi,18-08-26,4,4,34933,Balanced,Mid-range Hotels,Beaches,Bali
+Ahmedabad,20-12-25,3,1,40293,Balanced,Budget,Beaches,Phuket
+Chennai,21-05-26,4,2,25608,Action-Packed,Private Apartments,Adventure|Nightlife,Goa
+Kochi,28-09-26,4,4,40076,Balanced,Budget,Nightlife,Phuket
+Kolkata,24-10-26,4,1,23252,Balanced,Private Apartments,Food|Nature,Manali
+Jaipur,01-02-26,2,6,12652,Relaxed,Mid-range Hotels,Culture|Nature,Varanasi
+Kolkata,23-12-25,5,5,21634,Balanced,Mid-range Hotels,Adventure|Beaches|History,Shimla
+Delhi,10-10-26,3,2,29581,Relaxed,Private Apartments,Beaches|Culture|Nature,Langkawi
+Mumbai,08-09-26,3,2,18524,Relaxed,Mid-range Hotels,Culture|Food|Spiritual,Varanasi
+Bangalore,22-03-26,3,4,29554,Relaxed,Private Apartments,Food,Coorg
+Pune,16-05-26,5,4,28416,Balanced,Budget,Nightlife,Goa
+Kolkata,15-08-26,4,1,29272,Relaxed,Private Apartments,Adventure|Culture,Manali
+Jaipur,17-03-26,6,5,83760,Relaxed,Luxury Hotels,Nature,Maldives
+Pune,14-08-26,5,6,20839,Relaxed,Budget,History|Nature|Nightlife,Ooty
+Kolkata,07-04-26,2,1,27229,Relaxed,Mid-range Hotels,Food,Colombo
+Chennai,07-12-25,5,2,99171,Action-Packed,Luxury Hotels,Food,Dubai
+Delhi,10-08-26,3,6,14430,Action-Packed,Budget,Nature,Rishikesh
+Kolkata,18-10-26,4,1,52659,Relaxed,Luxury Hotels,Food,Bali
+Delhi,02-06-26,4,3,142169,Relaxed,Luxury Hotels,Adventure|Nature,Maldives
+Pune,04-09-26,5,5,60741,Balanced,Mid-range Hotels,Beaches|Culture,Istanbul
+Ahmedabad,23-04-26,3,1,110004,Relaxed,Luxury Hotels,Beaches|Culture,Maldives
+Kolkata,25-02-26,6,2,35128,Balanced,Mid-range Hotels,Culture,Da Nang
+Hyderabad,12-06-26,1,6,14571,Relaxed,Mid-range Hotels,Culture|Food|History,Varanasi
+Kochi,30-11-25,6,6,40435,Balanced,Private Apartments,Adventure|Culture|History,Ladakh
+Pune,21-07-26,3,5,30871,Balanced,Mid-range Hotels,Beaches|Food,Da Nang
+Pune,11-06-26,3,6,29284,Balanced,Private Apartments,Food|Nightlife,Da Nang
+Mumbai,15-10-26,3,3,27965,Balanced,Private Apartments,Culture|History|Nightlife,Jaipur
+Kolkata,29-05-26,3,5,24670,Relaxed,Budget,Adventure|Culture|Food,Colombo
+Kolkata,27-06-26,6,1,123698,Relaxed,Private Apartments,Culture|Nature,Maldives
+Delhi,21-02-26,4,2,33161,Balanced,Mid-range Hotels,Adventure|Beaches|History,Da Nang
+Chennai,01-07-26,10,4,55056,Balanced,Private Apartments,Adventure|Beaches,Ladakh
+Hyderabad,29-03-26,4,6,63076,Balanced,Mid-range Hotels,Food|Spiritual,Singapore
+Kolkata,15-08-26,4,1,29272,Relaxed,Private Apartments,Adventure|Culture,Manali
+Ahmedabad,30-09-26,4,6,62134,Balanced,Luxury Hotels,History|Nightlife,Singapore
+Kolkata,13-02-26,6,2,36645,Balanced,Budget,Food|Spiritual,Goa
+Ahmedabad,12-06-26,4,2,51638,Balanced,Luxury Hotels,Food|Nightlife,Andaman & Nicobar Islands
+Pune,09-05-26,5,3,26276,Relaxed,Budget,Culture,Colombo
+Hyderabad,27-04-26,6,6,97230,Relaxed,Private Apartments,Beaches|Food,Maldives
+Kolkata,01-08-26,5,1,30327,Relaxed,Budget,Nature,Ooty
+Pune,28-11-25,6,3,92439,Balanced,Private Apartments,Culture,Dubai
+Jaipur,26-06-26,5,3,36228,Action-Packed,Private Apartments,Food|Nature,Goa
+Bangalore,10-07-26,2,5,15019,Relaxed,Budget,Culture|Nature,Varanasi
+Kolkata,18-08-26,3,6,15941,Balanced,Budget,Spiritual,Pokhara
+Mumbai,15-01-26,4,5,81890,Relaxed,Luxury Hotels,Beaches,Maldives
+Hyderabad,07-05-26,4,1,67182,Balanced,Luxury Hotels,Culture|Food|History,Singapore
+Kolkata,10-06-26,6,2,47803,Balanced,Budget,Food,Phuket
+Mumbai,13-05-26,2,6,15273,Relaxed,Mid-range Hotels,Spiritual,Varanasi
+Pune,03-04-26,4,6,44365,Balanced,Luxury Hotels,Food,Singapore
+Pune,25-08-26,6,1,39136,Action-Packed,Mid-range Hotels,Food|History|Nature,Goa
